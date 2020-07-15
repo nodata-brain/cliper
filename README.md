@@ -1,4 +1,5 @@
 # cliper
+[![Go Report Card](https://goreportcard.com/badge/github.com/nodata-brain/cliper)](https://goreportcard.com/report/github.com/nodata-brain/cliper)
 ## How to Use
 
 1. Execute the following command.
