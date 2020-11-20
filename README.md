@@ -14,5 +14,9 @@ mv cliper /path_dir/
 ```Bash
 cliper
 ```
+etc. Background exec command.
+```Bash
+cliper &
+```
 
 The contents of the clipboard will be created in ~/.cliper/.
